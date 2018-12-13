@@ -18,3 +18,4 @@ First, using Kinect and Processing in order to get depth image. Then, use Syphon
 Need library: Open Kinect for processing; Syphon
 
 
+attention:You can set up a suitable screen size
